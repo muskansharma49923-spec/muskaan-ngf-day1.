@@ -1,5 +1,5 @@
 def main():
-  print("Hello from NGF Day 1!")
+  print("Improve greeting and add context")
 
 if __name__=="__main__":
   main()
